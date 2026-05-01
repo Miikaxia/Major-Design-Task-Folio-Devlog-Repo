@@ -13,3 +13,11 @@ It has ports for various different consoles, but is also an arcade game.
 The control layout for this game features seven note buttons on one side, and a "Scratch Lane" on the other, and while they are shown on the right and left respectively, they appear in various orientations across the series, and it also depends if you are P1 or P2 on the cabinets.
 This design uses more rectangular buttons due to it having more of them, and the piano key like layout. To save space and make the game easier to play.
 
+## ONGEKI
+![Alt Tag](ongeki.png)
+This is a controller for the game "Ongeki", it features six buttons and a joystick in the middle, for controlling your character. This is because ONGEKI is both a rhythm gamed and a bullet hell game.
+The inclusion of a joystick in this controller is similar to the use of a "Sky Lane" in In Falsus, the game I intend on making a controller for, where you must use a mouse or slider to control a point seperate from the rest of the play area while playing 6k normally.
+Being an arcade game found rarely outside of Japan, a controller for ONGEKI allows players to play from anywhere. Reducing the location restriction of the game.
+
+## In Falsus
+![Alt Tag](in-falsus.png)
