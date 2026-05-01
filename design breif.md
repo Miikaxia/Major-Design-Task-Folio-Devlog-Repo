@@ -14,5 +14,7 @@ While not released yet, In Falsus has an available demo for early access on stea
 ![Alt Tag](infalsusgameplay.png)
 This is a sample of In Falsus gameplay, taken from the official Lowiro In Falsus gameplay preview video.
 This shows it's strange design as you must use one hand to play the 6K (6 key) rhythm game, as well as using your other hand to control the mouse to hit the "Sky Notes" at the top of the screen. 
+This can be quite strange, as you have to move your fingers to hit 6 keys with one hand at times, and you are restricted to one hand gameplay, as you cannot use mouse keys as part of the rhythm game.
+Some people would say "Skill Issue". I choose to ignore them. And so I am designing a controller for In Falsus. Both as a proof of concept, and a genuine product I, and others could use.
 
 [This is the link to the original video, I couldn't embed it in a markdown file.](https://www.youtube.com/watch?v=hrt9R8ZYOAM)
