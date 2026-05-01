@@ -11,3 +11,8 @@ To design and make a controller using cad and a variety of lazer cutting and 3d 
 # About the game
 In Falsus is a game by Lowiro, most well known for making hit game Arcaea, In Falsus features similar gimmicks to the afformentioned game, such as a dynamic "Sky Lane" input.
 While not released yet, In Falsus has an available demo for early access on steam and it's strange/unique playstyle leaves players experimenting with various controlller to find a comfortable and effective form.
+![Alt Tag](infalsusgameplay.png)
+This is a sample of In Falsus gameplay, taken from the official Lowiro In Falsus gameplay preview video.
+This shows it's strange design as you must use one hand to play the 6K (6 key) rhythm game, as well as using your other hand to control the mouse to hit the "Sky Notes" at the top of the screen. 
+
+[This is the link to the original video, I couldn't embed it in a markdown file.](https://www.youtube.com/watch?v=hrt9R8ZYOAM)
