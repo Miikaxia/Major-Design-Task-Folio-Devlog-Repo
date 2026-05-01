@@ -20,4 +20,4 @@ The inclusion of a joystick in this controller is similar to the use of a "Sky L
 Being an arcade game found rarely outside of Japan, a controller for ONGEKI allows players to play from anywhere. Reducing the location restriction of the game.
 
 ## In Falsus
-![Alt Tag](in-falsus.png)
+![Alt Tag](In-falsus.png)
