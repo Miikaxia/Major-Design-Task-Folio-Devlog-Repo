@@ -16,4 +16,5 @@ Things in this repo will include:
 ...and more :3
 
 ## Navigation
-- [Design Breif](designbreif.md)
+- [Design Breif](design-breif.md)
+- [Mood Board](MoodBoard/Analysis.md)
