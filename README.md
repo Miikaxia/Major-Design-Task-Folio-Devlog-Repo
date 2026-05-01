@@ -1,4 +1,4 @@
-# Major-Design-Task-Folio-Devlog-Repo
+# Major Design Task
 Are we Out Falsus or In... Falsus?
 
 This is my repository for my major design task for grade 10 Design Technology Engineering.
@@ -14,3 +14,6 @@ Things in this repo will include:
 - reference drawings
 - scanned sketches
 ...and more :3
+
+## Navigation
+- [Design Breif](designbreif.md)
