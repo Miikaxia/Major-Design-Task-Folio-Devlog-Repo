@@ -1,4 +1,5 @@
-# Goal #
+# Design Breif
+## Goal 
 To design a solution to a problem, and create it within the real world.
 
 ## Problem ##
