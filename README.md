@@ -18,3 +18,4 @@ Things in this repo will include:
 ## Navigation
 - [Design Breif](design-breif.md)
 - [Mood Board](Mood-Board/Analysis.md)
+- [The Plan](plan.md)
