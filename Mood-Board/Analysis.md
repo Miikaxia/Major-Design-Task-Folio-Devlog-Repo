@@ -24,3 +24,5 @@ Being an arcade game found rarely outside of Japan, a controller for ONGEKI allo
 I actually don't know if this is a custom controller for In Falsus, or for a different game as this is the first and only time I have seen it. But in my eyes, it still suffers from the usage issue of playing 6k with one hand.
 This is the other main inspiration for my designs and sketches, as it provides a strong basis for further improvement, and demonstrates that this problem is not just a personal one, but one that others encounter too.
 It features six buttons and a slider for the "Sky Lane", featuring the signature In Falsus design for the intended experience of playing with one hand.
+
+[back](../README.md)
