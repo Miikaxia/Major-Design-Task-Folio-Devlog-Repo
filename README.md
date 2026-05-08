@@ -19,3 +19,9 @@ Things in this repo will include:
 - [Design Breif](design-breif.md)
 - [Mood Board](Mood-Board/Analysis.md)
 - [The Plan](plan.md)
+- [Sketches](sketches/About.html)
+
+## Disclaimer
+I do not own most of the assets used.
+All In Falsus official assets are taken from publicly available images and media.
+I recognise that the assets are legal IP of Lowiro.
